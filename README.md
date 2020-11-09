@@ -5,7 +5,7 @@ To play this game, update the variable "IP" in the both client.py and server.py 
 
 The server.py file have to be run in the server machine at first.
 
-Then each of should run the clients.py script.(server machine should have only server.py file and each of the clients should have rest of the files)
+Then each of the players should run the clients.py script.(server machine should have only server.py file and each of the clients should have rest of the files)
 
 Enjoy playing TicTacToe.
 
