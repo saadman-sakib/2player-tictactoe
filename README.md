@@ -1,5 +1,5 @@
 # 2player-tictactoe
-Markup: *Both players need to be in the same local area network.
+Both players need to be in the same local area network.
 
 To play this game, update the variable "IP" in the both client.py and server.py with the private ip adress of the machine, where you will run the server.py script.
 
